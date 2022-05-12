@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/toggle-switch/static/css/main.64377817.css",
+    "main.js": "/toggle-switch/static/js/main.2859cd6b.js",
+    "static/js/787.f005059a.chunk.js": "/toggle-switch/static/js/787.f005059a.chunk.js",
+    "index.html": "/toggle-switch/index.html",
+    "main.64377817.css.map": "/toggle-switch/static/css/main.64377817.css.map",
+    "main.2859cd6b.js.map": "/toggle-switch/static/js/main.2859cd6b.js.map",
+    "787.f005059a.chunk.js.map": "/toggle-switch/static/js/787.f005059a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64377817.css",
+    "static/js/main.2859cd6b.js"
+  ]
+}
