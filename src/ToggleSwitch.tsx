@@ -33,7 +33,12 @@ export default function ToggleSwitch() {
   }
   return (
     <StyledLabel htmlFor="checkbox" checked={switchState}>
-      <input type="checkbox" checked={switchState} onChange={handleOnChange} />
+      <input
+        id="checkbox"
+        type="checkbox"
+        checked={switchState}
+        onChange={handleOnChange}
+      />
     </StyledLabel>
   );
 }
